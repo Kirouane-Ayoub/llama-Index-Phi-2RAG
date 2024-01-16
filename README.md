@@ -6,6 +6,10 @@
 
 ### RAG
 
+![image3](https://github.com/Kirouane-Ayoub/llama-Index-Phi-2RAG/assets/99510125/48fc95ce-4704-4dd9-b203-e673da63f98b)
+
+
+
 *RAG* is a revolutionary technique in Natural Language Processing (NLP) designed to address the limitations of large language models (LLMs). The process involves Retrieval, Augmentation, and Generation:
 
 1. **Retrieval:** Searches external databases or documents for relevant information.
@@ -32,7 +36,10 @@ Phi-2, though still under development, shows potential as a powerful tool for ta
 
 + Source : **https://huggingface.co/microsoft/phi-2**
 
-### LLAMA Index
+### LLAMA Index 🦙
+
+![6462ca68c52fdda3d86e90d9_Frame 33-p-1600](https://github.com/Kirouane-Ayoub/llama-Index-Phi-2RAG/assets/99510125/748f19b8-d1aa-47b9-b495-0621086bcbd4)
+
 
 *LLAMA Index* is a data framework designed to complement RAG systems. It acts as a toolkit for building applications powered by both large language models and customized data.
 
@@ -62,3 +69,4 @@ pip install -r requirement.txt
 python3 app.py
 ```
 
+![Screenshot from 2024-01-16 14-06-05](https://github.com/Kirouane-Ayoub/llama-Index-Phi-2RAG/assets/99510125/fce405f6-c4a9-435f-a521-079d89ea8f88)
