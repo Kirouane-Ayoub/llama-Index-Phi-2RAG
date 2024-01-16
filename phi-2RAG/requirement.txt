@@ -1,7 +1,0 @@
-gradio
-llama_index
-torch
-pypdf
-python-dotenv
-einops
-accelerate
