@@ -34,6 +34,11 @@
 
 Phi-2, though still under development, shows potential as a powerful tool for tasks requiring common sense and logical reasoning.
 
+
+![Screenshot from 2024-01-16 14-14-41](https://github.com/Kirouane-Ayoub/llama-Index-Phi-2RAG/assets/99510125/da4ffdbc-29a0-4406-a6df-0ff957983e27)
+
+
+
 + Source : **https://huggingface.co/microsoft/phi-2**
 
 ### LLAMA Index 🦙
