@@ -11,7 +11,7 @@ system_prompt = "As a Q&A assistant, your primary objective is to respond to inq
 query_wrapper_prompt = SimpleInputPrompt("<|USER|>{query_str}<|ASSISTANT|>")
 
 
-model_name = "microsoft/phi-2"
+model_name = "ayoubkirouane/Phi-2.7B_MERGED"
 device_map = "cuda"
 llm = HuggingFaceLLM(
     context_window=4096,
